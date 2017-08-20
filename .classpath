@@ -1,0 +1,93 @@
+<classpath>
+  <classpathentry kind="src" path="src\main\scala"/>
+  <classpathentry kind="src" path="src\main\resources"/>
+  <classpathentry kind="src" path="src\test\scala"/>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+  <classpathentry sourcepath="C:\Users\Administrator\.ivy2\cache\com.typesafe.play\play-json_2.12\srcs\play-json_2.12-2.6.2-sources.jar" kind="lib" path="C:\Users\Administrator\.ivy2\cache\com.typesafe.play\play-json_2.12\jars\play-json_2.12-2.6.2.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\Administrator\.ivy2\cache\com.typesafe.play\play-json_2.12\docs\play-json_2.12-2.6.2-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\Administrator\.ivy2\cache\com.typesafe.play\play-functional_2.12\srcs\play-functional_2.12-2.6.2-sources.jar" kind="lib" path="C:\Users\Administrator\.ivy2\cache\com.typesafe.play\play-functional_2.12\jars\play-functional_2.12-2.6.2.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\Administrator\.ivy2\cache\com.typesafe.play\play-functional_2.12\docs\play-functional_2.12-2.6.2-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\Administrator\.ivy2\cache\org.typelevel\macro-compat_2.12\srcs\macro-compat_2.12-1.1.1-sources.jar" kind="lib" path="C:\Users\Administrator\.ivy2\cache\org.typelevel\macro-compat_2.12\jars\macro-compat_2.12-1.1.1.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\Administrator\.ivy2\cache\org.typelevel\macro-compat_2.12\docs\macro-compat_2.12-1.1.1-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\Administrator\.ivy2\cache\joda-time\joda-time\srcs\joda-time-2.9.9-sources.jar" kind="lib" path="C:\Users\Administrator\.ivy2\cache\joda-time\joda-time\jars\joda-time-2.9.9.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\Administrator\.ivy2\cache\joda-time\joda-time\docs\joda-time-2.9.9-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\Administrator\.ivy2\cache\com.fasterxml.jackson.core\jackson-core\srcs\jackson-core-2.8.9-sources.jar" kind="lib" path="C:\Users\Administrator\.ivy2\cache\com.fasterxml.jackson.core\jackson-core\bundles\jackson-core-2.8.9.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\Administrator\.ivy2\cache\com.fasterxml.jackson.core\jackson-core\docs\jackson-core-2.8.9-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\Administrator\.ivy2\cache\com.fasterxml.jackson.core\jackson-annotations\srcs\jackson-annotations-2.8.9-sources.jar" kind="lib" path="C:\Users\Administrator\.ivy2\cache\com.fasterxml.jackson.core\jackson-annotations\bundles\jackson-annotations-2.8.9.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\Administrator\.ivy2\cache\com.fasterxml.jackson.core\jackson-annotations\docs\jackson-annotations-2.8.9-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\Administrator\.ivy2\cache\com.fasterxml.jackson.core\jackson-databind\srcs\jackson-databind-2.8.9-sources.jar" kind="lib" path="C:\Users\Administrator\.ivy2\cache\com.fasterxml.jackson.core\jackson-databind\bundles\jackson-databind-2.8.9.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\Administrator\.ivy2\cache\com.fasterxml.jackson.core\jackson-databind\docs\jackson-databind-2.8.9-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\Administrator\.ivy2\cache\com.fasterxml.jackson.datatype\jackson-datatype-jdk8\srcs\jackson-datatype-jdk8-2.8.9-sources.jar" kind="lib" path="C:\Users\Administrator\.ivy2\cache\com.fasterxml.jackson.datatype\jackson-datatype-jdk8\bundles\jackson-datatype-jdk8-2.8.9.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\Administrator\.ivy2\cache\com.fasterxml.jackson.datatype\jackson-datatype-jdk8\docs\jackson-datatype-jdk8-2.8.9-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\Administrator\.ivy2\cache\com.fasterxml.jackson.datatype\jackson-datatype-jsr310\srcs\jackson-datatype-jsr310-2.8.9-sources.jar" kind="lib" path="C:\Users\Administrator\.ivy2\cache\com.fasterxml.jackson.datatype\jackson-datatype-jsr310\bundles\jackson-datatype-jsr310-2.8.9.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\Administrator\.ivy2\cache\com.fasterxml.jackson.datatype\jackson-datatype-jsr310\docs\jackson-datatype-jsr310-2.8.9-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\Administrator\.ivy2\cache\ch.qos.logback\logback-classic\srcs\logback-classic-1.2.3-sources.jar" kind="lib" path="C:\Users\Administrator\.ivy2\cache\ch.qos.logback\logback-classic\jars\logback-classic-1.2.3.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\Administrator\.ivy2\cache\ch.qos.logback\logback-classic\docs\logback-classic-1.2.3-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\Administrator\.ivy2\cache\ch.qos.logback\logback-core\srcs\logback-core-1.2.3-sources.jar" kind="lib" path="C:\Users\Administrator\.ivy2\cache\ch.qos.logback\logback-core\jars\logback-core-1.2.3.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\Administrator\.ivy2\cache\ch.qos.logback\logback-core\docs\logback-core-1.2.3-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\Administrator\.ivy2\cache\org.slf4j\slf4j-api\srcs\slf4j-api-1.7.25-sources.jar" kind="lib" path="C:\Users\Administrator\.ivy2\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.7.25.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\Administrator\.ivy2\cache\org.slf4j\slf4j-api\docs\slf4j-api-1.7.25-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\Administrator\.ivy2\cache\com.typesafe.scala-logging\scala-logging_2.12\srcs\scala-logging_2.12-3.7.2-sources.jar" kind="lib" path="C:\Users\Administrator\.ivy2\cache\com.typesafe.scala-logging\scala-logging_2.12\bundles\scala-logging_2.12-3.7.2.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\Administrator\.ivy2\cache\com.typesafe.scala-logging\scala-logging_2.12\docs\scala-logging_2.12-3.7.2-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\Administrator\.ivy2\cache\org.scalatest\scalatest_2.12\srcs\scalatest_2.12-3.0.1-sources.jar" kind="lib" path="C:\Users\Administrator\.ivy2\cache\org.scalatest\scalatest_2.12\bundles\scalatest_2.12-3.0.1.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\Administrator\.ivy2\cache\org.scalatest\scalatest_2.12\docs\scalatest_2.12-3.0.1-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\Administrator\.ivy2\cache\org.scalactic\scalactic_2.12\srcs\scalactic_2.12-3.0.1-sources.jar" kind="lib" path="C:\Users\Administrator\.ivy2\cache\org.scalactic\scalactic_2.12\bundles\scalactic_2.12-3.0.1.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\Administrator\.ivy2\cache\org.scalactic\scalactic_2.12\docs\scalactic_2.12-3.0.1-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\Administrator\.ivy2\cache\org.scala-lang.modules\scala-xml_2.12\srcs\scala-xml_2.12-1.0.5-sources.jar" kind="lib" path="C:\Users\Administrator\.ivy2\cache\org.scala-lang.modules\scala-xml_2.12\bundles\scala-xml_2.12-1.0.5.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\Administrator\.ivy2\cache\org.scala-lang.modules\scala-xml_2.12\docs\scala-xml_2.12-1.0.5-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\Administrator\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.12\srcs\scala-parser-combinators_2.12-1.0.4-sources.jar" kind="lib" path="C:\Users\Administrator\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.12\bundles\scala-parser-combinators_2.12-1.0.4.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\Administrator\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.12\docs\scala-parser-combinators_2.12-1.0.4-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="output" path="bin"/>
+</classpath>
